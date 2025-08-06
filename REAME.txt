@@ -1,0 +1,23 @@
+Fake Review Detector - AI Project
+
+🔍 Description:
+This project uses a Machine Learning model to classify whether a product review is real (human-written) or fake (AI-generated) based on its language style.
+
+🛠️ Tools Used:
+- Python
+- scikit-learn
+- TF-IDF Vectorizer
+- Logistic Regression
+
+📁 Files:
+- fake_review_detector.py → The main Python file
+- README.txt → Project summary
+
+▶️ How to Run:
+1. Open Terminal in VS Code
+2. Install dependencies: pip install scikit-learn
+3. Run: python fake_review_detector.py
+4. Modify and test your own review in the code!
+
+👩🏻‍💻 Created by:
+S.P. Remy Rachel Amold
